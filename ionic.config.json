@@ -1,0 +1,7 @@
+{
+  "name": "Trampota_PM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
